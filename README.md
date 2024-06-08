@@ -1,2 +1,1 @@
-# ci-cd-template
-CI/CD Template
+# CI/CD Template
