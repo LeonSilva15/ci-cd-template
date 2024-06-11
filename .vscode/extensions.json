@@ -1,0 +1,32 @@
+{
+  "recommendations": [
+    // EditorConfig for VS Code: Attempts to override user/workspace settings with settings found in .editorconfig files
+    "EditorConfig.EditorConfig",
+    // ESLint: Integrates ESLint into VS Code
+    "dbaeumer.vscode-eslint",
+    // JavaScript (ES6) code snippets: JavaScript in ES6 syntax for Vs Code editor (supports both JavaScript and TypeScript)
+    "xabikos.JavaScriptSnippets",
+    // Pretty TypeScript Errors: Make TypeScript errors prettier and human-readable
+    "yoavbls.pretty-ts-errors",
+    // npm Intellisense: Autocompletes npm modules in import statements
+    "christian-kohler.npm-intellisense",
+    // DotENV: A port of DotENV for vscode
+    "mikestead.dotenv",
+    // Dev Containers: Lets you use a Docker container as a full-featured development environment
+    "ms-vscode-remote.remote-containers",
+    // Docker: Makes it easy to build, manage, and deploy containerized applications from Visual Studio Code
+    "ms-azuretools.vscode-docker",
+    // Jest: Supports full jest features in vscode environment to make testing more intuitive and fun
+    "Orta.vscode-jest",
+    // Prettier - Code formatter: Enforces a consistent style by parsing your code and re-printing it with its own rules
+    "esbenp.prettier-vscode",
+    // YAML: Provides comprehensive YAML Language support to Visual Studio Code, via the yaml-language-server, with built-in Kubernetes syntax support
+    "redhat.vscode-yaml",
+    // REST Client: REST Client allows you to send HTTP request and view the response in Visual Studio Code directly
+    "humao.rest-client",
+    // GitHub Actions: Lets you manage your workflows, view the workflow run history, and helps with authoring workflows
+    "GitHub.vscode-github-actions",
+    // GitLens — Git supercharged: Quickly glimpse into when, why, and by whom a line or code block was changed
+    "eamodio.gitlens"
+  ]
+}
