@@ -1,0 +1,3 @@
+{
+  "**/*.{ts,tsx,js,jsx}": ["eslint --fix", "npm run prettier-format"]
+}
