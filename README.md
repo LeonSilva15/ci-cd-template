@@ -109,7 +109,7 @@ npm init
     ```
 > [lint-staged repo](https://github.com/lint-staged/lint-staged)
 
-## commitlint
+## Commit Lint
 ```sh
 npm install --save-dev @commitlint/{cli,config-conventional}
 ```
@@ -144,4 +144,4 @@ git reset --soft HEAD~1
 ```
 
 #### Another option of guide:
-[Husky + Commit Lint + Lint Staged + ESLnt guide](https://medium.com/@nburgueno.dev/eleva-tu-proyecto-c%C3%B3mo-integrar-husky-commitlint-lint-staged-y-eslint-8725cd90e343)
+[Husky + Commit Lint + Lint Staged + ESLint guide](https://medium.com/@nburgueno.dev/eleva-tu-proyecto-c%C3%B3mo-integrar-husky-commitlint-lint-staged-y-eslint-8725cd90e343)
