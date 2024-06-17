@@ -1,4 +1,5 @@
 # CI/CD Template
+This project is a compilation of starting points on the setup of a JS/TS project in GitHub, focusing on configuring multiple development dependencies, establishing a CI/CD pipeline, and organizing the repository structure effectively
 
 ## GitHub Action
 GitHub Actions is a powerful CI/CD (Continuous Integration and Continuous Deployment) automation tool that allows you to automate workflows directly from your GitHub repository. With GitHub Actions, you can build, test, and deploy your code on different platforms, ensuring that your software remains in a constant state of readiness for release.
