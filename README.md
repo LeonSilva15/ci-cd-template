@@ -167,5 +167,8 @@ npx --no -- commitlint --edit $1
 git reset --soft HEAD~1 
 ```
 
+#### Good example of a setup
+[Go Task repo](https://github.com/go-task/vscode-task)
+
 #### Another option of guide:
 [Husky + Commit Lint + Lint Staged + ESLint guide](https://medium.com/@nburgueno.dev/eleva-tu-proyecto-c%C3%B3mo-integrar-husky-commitlint-lint-staged-y-eslint-8725cd90e343)
